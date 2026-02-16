@@ -76,7 +76,6 @@ Do not speculate. If unknown, write “Unknown / Not confirmed”.
 ## Performance + AUM growth
 - Returns (monthly/annual if attributable/permitted): Unknown / Not confirmed from currently pulled attributable public sources. | Source: N/A | Reference: N/A | Date: 2026-02-16 | Source type: public | Confidence: low | Tag: unconfirmed
 - AUM growth / fundraising: Point72 timeline reports (firm-claimed) crossing $20B (2021), $30B (2023), and homepage reports ~$45.7B approximate AUM as of 2026-01-01 (website-defined metric). | Source: Point72 (official website) | Reference: https://point72.com/what-we-do/ and https://point72.com/ | Date: 2026-02-16 (accessed), 2026-01-01 (as-of metric) | Source type: public | Confidence: high | Tag: self-reported
-- Regulatory AUM trackpoint (independently verifiable): Form ADV Item 5.F total RAUM $220,930,269,308 filed 2026-01-30 for Point72 Asset Management, L.P. | Source: SEC/IAPD Form ADV Part 1 | Reference: https://reports.adviserinfo.sec.gov/reports/ADV/283077/PDF/283077.pdf | Date: 2026-01-30 | Source type: public | Confidence: high | Tag: independently verifiable
 
 ## Operating model
 
@@ -151,7 +150,6 @@ Track by role where possible:
 - Publicly disclosed proprietary AI stack architecture / model governance details: Unknown / Not confirmed in this pass. | Source: N/A | Reference: N/A | Date: 2026-02-16 | Source type: public | Confidence: low | Tag: unconfirmed
 
 ## Recent updates (rolling)
-- 2026-01-30 — regulatory — Latest Form ADV Part 1 filed for Point72 Asset Management, L.P. (CRD 283077), showing Item 5.F total RAUM $220,930,269,308 and 17 accounts. — why it matters: independently verifiable scale baseline for current dossier cycle. — Source: SEC/IAPD | Reference: https://reports.adviserinfo.sec.gov/reports/ADV/283077/PDF/283077.pdf and https://api.adviserinfo.sec.gov/search/firm/283077 | Date: 2026-01-30 | Source type: public | Confidence: high | Tag: independently verifiable
 - 2026-01-01 — firm overview changes — Homepage reports ~$45.7B approximate AUM and 3,000+ employees globally (with scope definitions/exclusions). — why it matters: firm-marketed scale and workforce context for commercial positioning. — Source: Point72 | Reference: https://point72.com/ | Date: 2026-01-01 | Source type: public | Confidence: high | Tag: self-reported
 - 2025-01-01 — strategy shift — Point72 timeline states establishment of private credit strategy. — why it matters: expansion beyond public-market strategies into broader private credit opportunity set. — Source: Point72 | Reference: https://point72.com/what-we-do/ | Date: 2026-02-16 (accessed) | Source type: public | Confidence: high
 - 2025-07-01 — talent strategy — LaunchPoint metrics published: 55%+ PMs launched via program, 50%+ internal promotions, 70%+ retention of PMs launched since 2020. — why it matters: indicates depth of internal PM incubation/retention machine. — Source: Point72 | Reference: https://point72.com/point72-launchpoint/ | Date: 2025-07-01 | Source type: public | Confidence: high | Tag: self-reported
