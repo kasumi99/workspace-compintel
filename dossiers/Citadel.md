@@ -19,21 +19,23 @@ Do not speculate. If unknown, write “Unknown / Not confirmed”.
 
 ## Snapshot
 
-### Sources to pull
-- [ ] Citadel official website (firm facts)
-- [ ] SEC Form ADV (latest brochure + Part 1/2)
-- [ ] Companies House / state registrations (entity basics)
-- [ ] LinkedIn company page (headcount range, office footprint)
-- [ ] Reputable profiles (Bloomberg / Reuters / FT)
+- Founded: 1990; founder and CEO: Ken Griffin. | Source: Citadel (official website) | Reference: https://www.citadel.com/ | Date: 2026-02-16 (accessed) | Source type: public | Confidence: high
+- Global headquarters: Miami (listed as “Global Headquarters” on careers page). | Source: Citadel (official website) | Reference: https://www.citadel.com/careers/ | Date: 2026-02-16 (accessed) | Source type: public | Confidence: high
+- Investment capital reported at $65B as of 2026-01-01 (firm-defined metric). | Source: Citadel (official website) | Reference: https://www.citadel.com/ | Date: 2026-01-01 | Source type: public | Confidence: high
+- Stated global office footprint includes major hubs such as Miami, New York, Chicago, London, Hong Kong, Singapore, Tokyo, and Paris. | Source: Citadel (official website) | Reference: https://www.citadel.com/careers/ | Date: 2026-02-16 (accessed) | Source type: public | Confidence: high
+- Team profile metrics reported by firm: 40%+ hold advanced degrees; 270+ PhDs across ~60 fields; 100+ countries represented (as of Jan 2026). | Source: Citadel (official website) | Reference: https://www.citadel.com/ | Date: 2026-01-01 | Source type: public | Confidence: high
+- Regulatory AUM (Form ADV): Unknown / Not confirmed in this pass (ADV not yet pulled). | Source: N/A (not yet retrieved) | Reference: N/A | Date: 2026-02-16 | Source type: public | Confidence: low
 
 ## Timeline (notable events)
 
-### Sources to pull
-- [ ] Citadel press releases / newsroom archive
-- [ ] Reuters company news archive
-- [ ] Bloomberg company timeline/profile
-- [ ] WSJ / FT major event coverage
-- [ ] SEC filings with event-relevant disclosures
+- 1990 — Ken Griffin starts Wellington Financial Group (now Citadel Wellington LLC) with $4.6 million, marking firm launch. | Source: Citadel (official website) | Reference: https://www.citadel.com/who-we-are/ | Date: 1990-01-01 (year-level event on timeline) | Source type: public | Confidence: high
+- 1994 — Business rebranded to Citadel Investment Group; merger arb and statistical equity arb launches cited on firm timeline. | Source: Citadel (official website) | Reference: https://www.citadel.com/who-we-are/ | Date: 1994-01-01 (year-level event on timeline) | Source type: public | Confidence: high
+- 2001 — Equities strategy launch cited as one of firm’s largest long-running strategies. | Source: Citadel (official website) | Reference: https://www.citadel.com/who-we-are/ | Date: 2001-01-01 (year-level event on timeline) | Source type: public | Confidence: high
+- 2002 — Citadel Securities founding noted on firm timeline (separate affiliated business). | Source: Citadel (official website) | Reference: https://www.citadel.com/who-we-are/ | Date: 2002-01-01 (year-level event on timeline) | Source type: public | Confidence: high
+- 2012 — Launch of quantitative strategies noted on firm timeline. | Source: Citadel (official website) | Reference: https://www.citadel.com/who-we-are/ | Date: 2012-01-01 (year-level event on timeline) | Source type: public | Confidence: high
+- 2018 — Ashler Capital launch noted as a core equities expansion milestone. | Source: Citadel (official website) | Reference: https://www.citadel.com/who-we-are/ and https://www.citadel.com/what-we-do/equities/ | Date: 2018-01-01 (year-level event on timeline) | Source type: public | Confidence: high
+- 2022 — Citadel says it established global headquarters in Miami. | Source: Citadel (official website) | Reference: https://www.citadel.com/who-we-are/ | Date: 2022-01-01 (year-level event on timeline) | Source type: public | Confidence: high
+- 2025 — Firm timeline states 35-year milestone and “Reaches $65B in AUM.” | Source: Citadel (official website) | Reference: https://www.citadel.com/who-we-are/ | Date: 2025-01-01 (year-level event on timeline) | Source type: public | Confidence: medium
 
 ## Core strategies
 
@@ -89,12 +91,12 @@ Do not speculate. If unknown, write “Unknown / Not confirmed”.
 
 ## Key personnel
 
-### Sources to pull
-- [ ] Citadel leadership page
-- [ ] SEC filings listing control persons/management
-- [ ] Bloomberg executives database
-- [ ] Reuters executive profiles
-- [ ] Verified bios from conference/speaking pages
+- Ken Griffin — Founder and CEO; also referenced as Co-CIO on strategy pages. | Source: Citadel (official website) | Reference: https://www.citadel.com/ and https://www.citadel.com/what-we-do/credit-and-convertibles/ | Date: 2026-02-16 (accessed) | Source type: public | Confidence: high
+- Pablo Salame — Co-Chief Investment Officer; also listed as Head of Credit. | Source: Citadel (official website) | Reference: https://www.citadel.com/what-we-do/credit-and-convertibles/ | Date: 2026-02-16 (accessed) | Source type: public | Confidence: high
+- Edwin Lin — Head of Fixed Income and Macro; serves on Portfolio Committee (per profile). | Source: Citadel (official website) | Reference: https://www.citadel.com/what-we-do/fixed-income-and-macro/ | Date: 2026-02-16 (accessed) | Source type: public | Confidence: high
+- Sebastian Barrack — Head of Commodities; serves on Portfolio Committee (per profile). | Source: Citadel (official website) | Reference: https://www.citadel.com/what-we-do/commodities/ | Date: 2026-02-16 (accessed) | Source type: public | Confidence: high
+- Navneet Arora — Head of Global Quantitative Strategies; serves on Portfolio Committee (per profile). | Source: Citadel (official website) | Reference: https://www.citadel.com/what-we-do/global-quantitative-strategies/ | Date: 2026-02-16 (accessed) | Source type: public | Confidence: high
+- Gerald Beeson — Chief Operating Officer (title appears in firm timeline/culture section quote). | Source: Citadel (official website) | Reference: https://www.citadel.com/who-we-are/ | Date: 2026-02-16 (accessed) | Source type: public | Confidence: medium
 
 ## Investor terms
 
@@ -135,18 +137,20 @@ Track by role where possible:
 
 ## AI / tech offering
 
-### Sources to pull
-- [ ] Citadel engineering/technology pages
-- [ ] Patent databases (USPTO/Google Patents)
-- [ ] Engineering talks/blog posts from firm leaders
-- [ ] Public job postings (ML/data/platform signals)
-- [ ] Reputable tech/finance reporting
+- Citadel states “Technology is the lifeblood of our firm” and describes proprietary tools/models built jointly by engineering, quant research, and investment teams. | Source: Citadel (official website) | Reference: https://www.citadel.com/what-we-do/ | Date: 2026-02-16 (accessed) | Source type: public | Confidence: high
+- Commodities strategy describes a differentiated applied research operation using atmospheric scientists + HPC specialists for proprietary weather forecasting models. | Source: Citadel (official website) | Reference: https://www.citadel.com/what-we-do/ and https://www.citadel.com/what-we-do/commodities/ | Date: 2026-02-16 (accessed) | Source type: public | Confidence: high
+- Commodities engineering platform reports ~100 dedicated engineers and 17TB+ average daily data ingestion/processing (as of Jan 2026). | Source: Citadel (official website) | Reference: https://www.citadel.com/what-we-do/commodities/ | Date: 2026-01-01 | Source type: public | Confidence: high
+- Example technologies explicitly listed by the firm include Airflow, Google Cloud (Spanner/BigQuery), KDB, Kubernetes, MongoDB, Python stack (Pandas/NumPy/Dask), and React. | Source: Citadel (official website) | Reference: https://www.citadel.com/what-we-do/commodities/ | Date: 2026-02-16 (accessed) | Source type: public | Confidence: high
+- Fixed Income & Macro page cites a “best-in-class computational platform” and heavy use of public/proprietary data in idea generation and risk deployment. | Source: Citadel (official website) | Reference: https://www.citadel.com/what-we-do/fixed-income-and-macro/ | Date: 2026-02-16 (accessed) | Source type: public | Confidence: medium
+- External patent / third-party engineering evidence: Unknown / Not confirmed in this pass. | Source: N/A (not yet retrieved) | Reference: N/A | Date: 2026-02-16 | Source type: public | Confidence: low
 
 ## Recent updates (rolling)
 
-### Sources to pull
-- [ ] Citadel newsroom/press releases (monthly check)
-- [ ] Reuters and Bloomberg alerts (weekly sweep)
-- [ ] SEC filing updates (ADV amendments, related entities)
-- [ ] Major conference appearances/interviews
-- [ ] Internal authorized notes (pointer references only)
+- 2026-01-01 — Firm reports investment capital at $65B (as-of date). | Source: Citadel (official website) | Reference: https://www.citadel.com/ | Date: 2026-01-01 | Source type: public | Confidence: high
+- 2026-01-18 — Citadel homepage cites LCH ranking as #1 by net gains since inception through 2025-12-31 (award date stated). | Source: Citadel citing LCH Investments NV | Reference: https://www.citadel.com/ | Date: 2026-01-18 | Source type: public | Confidence: high
+- 2026-01-01 — Equities page reports 420+ investment professionals and 28K+ company meetings in 2025 (as-of Jan 2026). | Source: Citadel (official website) | Reference: https://www.citadel.com/what-we-do/equities/ | Date: 2026-01-01 | Source type: public | Confidence: high
+- 2026-01-01 — Commodities page reports 250+ investment professionals and 17TB+ daily data ingest/processing (as-of Jan 2026). | Source: Citadel (official website) | Reference: https://www.citadel.com/what-we-do/commodities/ | Date: 2026-01-01 | Source type: public | Confidence: high
+- 2026-01-01 — Fixed Income & Macro page reports 210+ investment professionals across Greenwich/London/Miami/New York/Paris (as-of Jan 2026). | Source: Citadel (official website) | Reference: https://www.citadel.com/what-we-do/fixed-income-and-macro/ | Date: 2026-01-01 | Source type: public | Confidence: high
+- 2025-01-01 — Firm timeline notes 35-year milestone and states “Reaches $65B in AUM” during 2025 (year-level entry; no exact day provided). | Source: Citadel (official website) | Reference: https://www.citadel.com/who-we-are/ | Date: 2025-01-01 (year-level timeline marker) | Source type: public | Confidence: medium
+- 2025-01-01 — Citadel “What We Do” page lists 2025 recognitions including Risk.net Hedge Fund of the Year and Markets Media Best Quantitative Investment Team (year-level listing, no precise dates on page). | Source: Citadel (official website) | Reference: https://www.citadel.com/what-we-do/ | Date: 2025-01-01 (year-level listing) | Source type: public | Confidence: medium
+- Last-12-month external filing/news sweep (Reuters/Bloomberg/SEC ADV amendments): Unknown / Not confirmed in this pass due source pull not completed yet. | Source: N/A (not yet retrieved) | Reference: N/A | Date: 2026-02-16 | Source type: public | Confidence: low
