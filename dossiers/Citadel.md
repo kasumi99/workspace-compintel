@@ -8,30 +8,38 @@ For each non-trivial claim include:
 - Date: {event date OR "as of" date; if unknown use access date}
 - Source type: public | licensed/paywalled | internal/authorized | recruiter/hearsay
 - Confidence: high | medium | low
-- Tag (optional but required when relevant): self-reported | independently verifiable | unconfirmed
+- Tag (required when relevant): self-reported | independently verifiable | unconfirmed
 
 ### Confidence definition
 Confidence measures: "Does the cited source clearly support this statement?"
 
 Set:
-- Confidence: high  → the source explicitly states it (direct support)
+- Confidence: high  → source explicitly states the claim (direct support)
 - Confidence: medium → source is indirect/ambiguous, partial support, or interpretation required
 - Confidence: low → rumor/hearsay OR missing source OR source not yet retrieved
 
+Rule:
+- Use high whenever the cited source explicitly states the claim.
+- Use medium/low only when support is indirect/ambiguous or missing.
+
 ### Tag rules
-- Tag: self-reported → metric/claim comes from the firm itself (AUM/investment capital/headcount stats, marketing claims)
+- Tag: self-reported → firm-claimed metrics/claims (AUM, investment capital, headcount/professional counts, marketing claims)
 - Tag: independently verifiable → widely corroborated across credible external sources
 - Tag: unconfirmed → plausible but not yet corroborated sufficiently
 
 Rule of thumb:
-- If a firm website states "we have $X AUM", Confidence is HIGH (they said it), Tag is SELF-REPORTED.
-- Do not downgrade to medium just because it's self-reported; use the tag.
+- If Citadel states "we have $X AUM/investment capital/headcount", use Confidence: high + Tag: self-reported.
+- Do not downgrade confidence solely because a metric is self-reported.
 
 ### Safety + handling sensitive sources
 - Do not speculate. If unknown, write “Unknown / Not confirmed”.
 - Do not paste secrets/tokens or full confidential documents into this dossier.
   For internal sources, store a pointer only: internal:<system/doc>.
 - Do NOT include leaked/stolen/NDA-breaching material or anything that appears to be MNPI.
+
+### Output format rules
+- For update bullets include: date, category, what changed, why it matters, source/date/reference, confidence (+ tag when relevant).
+- For firm-claimed metrics, append: Confidence: high | Tag: self-reported.
 
 ### Output size rules
 - Foundational build (first pass): be comprehensive; no hard bullet limits. Use subheadings and add “Key takeaways” at the top of long sections.
@@ -44,10 +52,10 @@ Rule of thumb:
 - Founder(s):
 - HQ:
 - Major offices:
-- Est. headcount:
-- # investment professionals:
-- # infra/engineering professionals:
-- Total AUM (reported):
+- Est. headcount: (if firm-claimed metric: Confidence high + Tag:self-reported)
+- # investment professionals: (if firm-claimed metric: Confidence high + Tag:self-reported)
+- # infra/engineering professionals: (if firm-claimed metric: Confidence high + Tag:self-reported)
+- Total AUM (reported): (if firm-claimed metric: Confidence high + Tag:self-reported)
 - Regulatory AUM (Form ADV):
 - Sources:
 
@@ -120,4 +128,4 @@ Track by role where possible:
 - Sources:
 
 ## Recent updates (rolling)
-- YYYY-MM-DD — category — update — why it matters — source
+- YYYY-MM-DD — category — update — why it matters — source (publisher + date + reference) — confidence (high/medium/low) — tag (when relevant)
