@@ -1,3 +1,11 @@
 .DS_Store
 .openclaw/
 memory/
+
+# Personal / local agent files (do not commit)
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+MEMORY.md
+TOOLS.md
+USER.md
