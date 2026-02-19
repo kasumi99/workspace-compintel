@@ -1,9 +1,9 @@
-# COMPETITORS
+ # COMPETITORS
 
 ## Priority (build dossiers first)
-- Citadel
-- Point72
-- Balyasny (BAM)
+- Citadel [DONE]
+- Point72 [DONE]
+- Balyasny (BAM) [DONE]
 - D. E. Shaw
 - Millennium (baseline/self)
 - Jain Global

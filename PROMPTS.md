@@ -5,6 +5,14 @@ Before executing any macro: read AGENTS.md required reads + DOSSIER_TEMPLATE.md 
 
 ---
 
+## Competitor list parsing rule (COMPETITORS.md)
+- Use the list under `## Priority (build dossiers first)`.
+- Lines may contain `[DONE]`.
+- **Baseline runs:** skip firms marked `[DONE]`.
+- **Daily update runs:** INCLUDE firms marked `[DONE]` (we still monitor them).
+- When extracting firm names, strip `- ` prefix and strip the trailing ` [DONE]` marker.
+
+
 ## Global rules (apply to every macro)
 - Always read: DOSSIER_TEMPLATE.md, UPDATE_PLAYBOOK.md, and this PROMPTS.md before acting.
 - Confidence definition: “Does the cited source explicitly support the claim?”
